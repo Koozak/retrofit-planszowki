@@ -1,0 +1,25 @@
+{
+  "planszowki":[
+  {
+    "tytul": "monopoly",
+    "minLG": 4,
+    "maxLG": 8,
+    "czas": 5,
+    "trudnosc": 1
+  },
+  {
+    "tytul": "szachy",
+    "minLG": 2,
+    "maxLG": 2,
+    "czas": 1,
+    "trudnosc": 5
+  },
+  {
+    "tytul": "chińczyk",
+    "minLG": 2,
+    "maxLG": 4,
+    "czas": 3,
+    "trudnosc": 3
+  }
+]
+}
